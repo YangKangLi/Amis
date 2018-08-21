@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amis-2018-08-21.iml" filepath="$PROJECT_DIR$/Amis-2018-08-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmisMain/AmisMain.iml" filepath="$PROJECT_DIR$/AmisMain/AmisMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmisModel/AmisModel.iml" filepath="$PROJECT_DIR$/AmisModel/AmisModel.iml" />
+    </modules>
+  </component>
+</project>
